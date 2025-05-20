@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  background-color: #f4f4f4;
+}
+
+header, footer {
+  background-color: #a7a7df;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+main {
+  padding: 20px;
+  background-color: #aa772f;
+}
+
+.pdf-link {
+  display: block;
+  margin-bottom: 30px;
+}
+
+.pdf-link a {
+  background-color: #efbc9b;
+  color: black;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
